@@ -2,6 +2,7 @@ using System.ComponentModel.Design.Serialization;
 using System.Runtime.CompilerServices;
 using GameStore;
 using GameStore.Dtos;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 

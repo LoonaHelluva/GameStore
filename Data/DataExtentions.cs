@@ -36,4 +36,10 @@ public static class DataExtentions
             })
         );
     }
+
+    public static void AddGame(this DbContext context, Game game)
+    {
+        context.Set<Game>().Add(game);
+        context.SaveChanges();
+    }
 }
