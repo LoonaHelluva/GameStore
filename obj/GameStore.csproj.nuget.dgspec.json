@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\GameStore\\GameStore.csproj": {}
+    "e:\\Projects\\GameStore\\GameStore.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\GameStore\\GameStore.csproj": {
+    "e:\\Projects\\GameStore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "e:\\Projects\\GameStore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "E:\\Projects\\GameStore\\GameStore.csproj",
+        "projectPath": "e:\\Projects\\GameStore\\GameStore.csproj",
         "packagesPath": "C:\\Users\\mussa\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\GameStore\\obj\\",
+        "outputPath": "e:\\Projects\\GameStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mussa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,18 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
