@@ -1,0 +1,29 @@
+GET http://localhost:5028/games
+###
+
+GET http://localhost:5028/games/1
+###
+
+POST http://localhost:5028/games
+Content-Type: application/json
+
+{
+    "name": "Mario Cart",
+    "genre": "Adventure",
+    "price": 1,
+    "releaseDate": "2013-12-04"
+}
+###
+
+PUT http://localhost:5028/games/1
+Content-Type: application/json
+
+{
+    "name": "Asasin Screed III",
+    "genre": "RPG",
+    "price": 53.5,
+    "releaseDate": "2015-05-03"
+}
+###
+
+DELETE http://localhost:5028/games/2
