@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Projects\\GameStore\\GameStore.csproj": {}
+    "E:\\Projects\\GameStore\\GameStore.csproj": {}
   },
   "projects": {
-    "e:\\Projects\\GameStore\\GameStore.csproj": {
+    "E:\\Projects\\GameStore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Projects\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "E:\\Projects\\GameStore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "e:\\Projects\\GameStore\\GameStore.csproj",
+        "projectPath": "E:\\Projects\\GameStore\\GameStore.csproj",
         "packagesPath": "C:\\Users\\mussa\\.nuget\\packages\\",
-        "outputPath": "e:\\Projects\\GameStore\\obj\\",
+        "outputPath": "E:\\Projects\\GameStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mussa\\AppData\\Roaming\\NuGet\\NuGet.Config"

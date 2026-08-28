@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSZFumUISfk=",
+  "dgSpecHash": "yWtU6wb0hi4=",
   "success": true,
-  "projectFilePath": "e:\\Projects\\GameStore\\GameStore.csproj",
+  "projectFilePath": "E:\\Projects\\GameStore\\GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mussa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mussa\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
@@ -36,5 +36,15 @@
     "C:\\Users\\mussa\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
     "C:\\Users\\mussa\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file E:\\Projects\\GameStore\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "E:\\Projects\\GameStore\\GameStore.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Projects\\GameStore\\GameStore.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
