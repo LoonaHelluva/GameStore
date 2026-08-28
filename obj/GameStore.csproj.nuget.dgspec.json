@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\GameStore\\GameStore.csproj": {}
+    "/home/loona/Projects/GameStore/GameStore.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\GameStore\\GameStore.csproj": {
+    "/home/loona/Projects/GameStore/GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "/home/loona/Projects/GameStore/GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "E:\\Projects\\GameStore\\GameStore.csproj",
-        "packagesPath": "C:\\Users\\mussa\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\GameStore\\obj\\",
+        "projectPath": "/home/loona/Projects/GameStore/GameStore.csproj",
+        "packagesPath": "/home/loona/.nuget/packages/",
+        "outputPath": "/home/loona/Projects/GameStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mussa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/loona/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/loona/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
